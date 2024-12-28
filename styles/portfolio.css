@@ -122,4 +122,9 @@ main{
 
 .about-info{
     text-align: center;
+    margin-top: 30px;
+}
+
+#what-i-do-description{
+    padding: 30px 150px;
 }
